@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "https://dabuchera.github.io/"
 title = "David Bucher | Personal Website"
 theme = "hugo-coder"
 languageCode = "en"

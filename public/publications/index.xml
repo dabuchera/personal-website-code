@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on David Bucher | Personal Website</title>
+    <link>http://www.example.com/publications/</link>
+    <description>Recent content in Research on David Bucher | Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Proposed Material Passport Ontology to Enable Circularity for Industrialized Construction</title>
+      <link>http://www.example.com/publications/thesis1/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/publications/thesis1/</guid>
+      <description>There is a need to collect, store, and share product data to enable circularity in industrialized construction supply chains. To do this, the concept of a Material Passport (MP) has been proposed, but exactly how MPs should be created and managed is less understood, especially in consideration of industrialized construction product platforms. This paper proposes a knowledge and process representation framework called the Material Passport Ontology (MPO). The MPO outlines key components of MPs and their interrelationships.</description>
+    </item>
+    
+    <item>
+      <title>Development of a cloud-based Common Data Environment for purposes of a construction company</title>
+      <link>http://www.example.com/publications/thesis1/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/publications/thesis1/</guid>
+      <description>One emerging strategy in industrialized construction is the use of mass customization to increase product efficiency without sacrificing design flexibility. Effective implementation of mass customization can be done through a product platform, i.e. a configurator. However, existing configurators often lack integration of knowledge from the downstream supply chain such as manufacturing. This paper proposes a conceptual framework for a configurator unified through a manufacturing kit-of-parts. Kit-of-parts are pre-engineered and pre-designed digital models representing fabrication-ready components.</description>
+    </item>
+    
+    <item>
+      <title>Common Data Environment within the AEC Ecosystem; moving collaborative platforms beyond the open versus closed dichotomy</title>
+      <link>http://www.example.com/publications/thesis1/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/publications/thesis1/</guid>
+      <description>The Common Data Environment (CDE) is seen as an opportunity to increase collaboration and efficiency during project handling and act as a basis for Industry 4.0 in the construction industry. CDE developments in industry and research use various approaches to collaboration and interoperability. Past attempts to conceptualize these approaches have been limited to an open versus closed dichotomy. This paper suggests a new conceptualization for interoperable CDE&amp;rsquo;s is needed. A three-dimensional paradigm for interoperable CDE development is proposed.</description>
+    </item>
+    
+    <item>
+      <title>Development of a cloud-based Common Data Environment for purposes of a construction company</title>
+      <link>http://www.example.com/publications/thesis1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/publications/thesis1/</guid>
+      <description>The topic of the Common Data Environment (CDE) is based on the idea of linking a collaborative project space with the cloud technology. It should then be possible for all project participants to move increasingly towards an integral approach of project management. This means that methods of the BIM process can be used more frequently in later project phases in addition to the planning phases, and the efficiency and optimization of the construction process can be optimized by involving all actors during a project.</description>
+    </item>
+    
+  </channel>
+</rss>
